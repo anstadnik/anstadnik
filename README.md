@@ -32,7 +32,6 @@ stuff, used mainly for competitive programming.
 - [minitalk](https://github.com/anstadnik/minitalk) - send strings using user signals
 
 # Courses, taken at UCU
-```
 - sem_1
   - **distributed_systems**: Master/client Rust/Python distributed system in docker compose with various options.
   - **intro_to_data_science**: Group project, Ukrainian book generation. I was responsible for fine-tuning GPT-2 on the grid of authors and genres. We also used VQGAN+CLIP for image generation.
@@ -52,7 +51,6 @@ stuff, used mainly for competitive programming.
   - **health**: A project with Toronto University.
   - **MMDS**: Mining massive datasets. Spark, Streams, BloomFilter, etc.
   - **RL**: Reinforcement learning. Q-learning, DQN, A3C, etc.
-```
 
 <!-- # IDK -->
 <!-- n-puzzle TODO -->
