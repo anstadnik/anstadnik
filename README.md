@@ -5,6 +5,7 @@ simulating the distorted lattice and predicting possible locations of the
 previously undetected points. My Master's diploma project.
 
 ## ML
+- [SynRD](https://github.com/DataResponsibly/SynRD) - A Differentially Private (DP) Synthetic Data benchmarking package, made in collaboration with New York Univerity ([paper](https://arxiv.org/abs/2208.12700)).
 - [adversarial_attack](https://github.com/anstadnik/adversarial_attack) - Generate adversarial noise using genetic algorithms to hide the text from an OCR toolchain (Tesseract) such that a human can still read it.
 - [smart_rockets](https://github.com/anstadnik/smart_rockets) - pathfinding in a labyrinth using genetic algorithms.
 
