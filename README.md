@@ -31,6 +31,27 @@ stuff, used mainly for competitive programming.
 - [libft](https://github.com/anstadnik/libft) - my implementation of the C standard library, including printf.
 - [minitalk](https://github.com/anstadnik/minitalk) - send strings using user signals
 
+# Courses, taken at UCU
+├── sem_1
+│   ├── **distributed_systems**: Master/client Rust/Python distributed system in docker compose with various options.
+│   ├── **intro_to_data_science**: Group project, Ukrainian book generation. I was responsible for fine-tuning GPT-2 on the grid of authors and genres. We also used VQGAN+CLIP for image generation.
+│   ├── **linear_algebra**: Various projects (both python and math in latex) on topics including orthogonality, eigenvalues, eigenvectors, matrix factorization and iterations and numerical optimization.
+│   ├── **statistics**: Just a lot of math.
+│   └── **warehousing**: Data varehousing. ETL in sql.
+├── sem_2
+│   ├── **bayesian_methods**: Statistics, Kalman filter, particle filter.
+│   ├── **DL**: Implementation of simple CNN in latex and python by hand, in scalar and matrix forms. Both training and inference.
+│   ├── **ML**: Basically, a lot of ML algs, including SVM, decision trees, random forests, boosting, clustering, PCA, t-SNE, etc.
+│   ├── **perf**: Cuda, speeding python up with mutltithreading Rust, SIMD in Rust etc.
+│   └── **vis**: Texty.org-like visualizations using Altair.
+└── sem_3
+    ├── **academic_writing**: Writing a paper on the topic of the course.
+    ├── **[camera_calibration](https://github.com/anstadnik/camera_calibration)**: My thesis project.
+    ├── **CV**: Computer vision course. All kinds of stuff, including classical, deep learning. Segmentation, detection, tracking, etc.
+    ├── **health**: A project with Toronto University.
+    ├── **MMDS**: Mining massive datasets. Spark, Streams, BloomFilter, etc.
+    └── **RL**: Reinforcement learning. Q-learning, DQN, A3C, etc.
+
 <!-- # IDK -->
 <!-- n-puzzle TODO -->
 
