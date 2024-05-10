@@ -31,7 +31,7 @@ stuff, used mainly for competitive programming.
 - [libft](https://github.com/anstadnik/libft) - my implementation of the C standard library, including printf.
 - [minitalk](https://github.com/anstadnik/minitalk) - send strings using user signals
 
-# Courses, taken at UCU
+# Courses, taken at Ukrainian Catholic Univerity
 - sem_1
   - **distributed_systems**: Master/client Rust/Python distributed system in docker compose with various options.
   - **intro_to_data_science**: Group project, Ukrainian book generation. I was responsible for fine-tuning GPT-2 on the grid of authors and genres. We also used VQGAN+CLIP for image generation.
