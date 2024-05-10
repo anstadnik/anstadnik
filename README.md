@@ -21,6 +21,8 @@ stuff, used mainly for competitive programming.
 
 ## C
 - [brainfuck](https://github.com/anstadnik/brainfuck) - An implementation of the brainfuch interpreter and debugger.
+- [libft](https://github.com/anstadnik/libft) - my implementation of the C standard library, including printf.
+- [minitalk](https://github.com/anstadnik/minitalk) - send strings using user signals
 <!-- [fdf](https://github.com/anstadnik/fdf) - TODO -->
 <!-- [filler](https://github.com/anstadnik/filler) - TODO -->
 <!-- [fillit](https://github.com/anstadnik/fillit) - TODO -->
@@ -28,8 +30,6 @@ stuff, used mainly for competitive programming.
 <!-- [get_next_line](https://github.com/anstadnik/get_next_line) - read lines from file. Doesn't jump, manages internal linked list -->
 <!-- state. -->
 <!-- [lem-in](https://github.com/anstadnik/lem-in) - TODO -->
-- [libft](https://github.com/anstadnik/libft) - my implementation of the C standard library, including printf.
-- [minitalk](https://github.com/anstadnik/minitalk) - send strings using user signals
 
 # Courses, taken at Ukrainian Catholic Univerity
 - sem_1
